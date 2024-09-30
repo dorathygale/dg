@@ -285,7 +285,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edb4d273688f4aa46862721ec18f5198, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ServerUrl: 
   EncryptionKey: 00000000000
   WalletButton: {fileID: 904020259}
   LogText: {fileID: 1958174897}

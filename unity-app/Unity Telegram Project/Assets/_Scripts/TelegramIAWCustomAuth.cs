@@ -1,18 +1,12 @@
-using System.Collections;
-using System.Collections.Generic;
 using Newtonsoft.Json;
 using Thirdweb;
 using Thirdweb.Unity;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Networking;
 using UnityEngine.UI;
 
 public class TelegramIAWCustomAuth : MonoBehaviour
 {
-    [field: SerializeField]
-    private string ServerUrl;
-
     [field: SerializeField]
     private string EncryptionKey;
 
