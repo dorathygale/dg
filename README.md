@@ -1,6 +1,6 @@
 ![Group 2 (1)](https://github.com/user-attachments/assets/1bb43b44-006d-4a1c-a41b-61eb718d3efd)
 
-# thirdweb Telegram Mini App Example (Unity WebGL Version!)
+# thirdweb Telegram Mini App Example (Unity WebGL)
 
 Easily embed your Unity WebGL blockchain game into Telegram Mini-Apps using thirdweb.
 
