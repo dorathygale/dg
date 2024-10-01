@@ -4,6 +4,8 @@
 
 Easily embed your Unity WebGL blockchain game into Telegram Mini-Apps using thirdweb.
 
+https://github.com/user-attachments/assets/7f542c59-2f9e-43bb-8dad-d45f1a065e62
+
 ## Getting Started
 
 > This project assumes some basic knowledge of Unity, TypeScript, Next.js App Router, and [Connect SDK](https://portal.thirdweb.com/unity).
@@ -87,7 +89,7 @@ var smartWallet = await ThirdwebManager.Instance.ConnectWallet(connection);
 var address = await smartWallet.GetAddress();
 ```
 
-![5e7b2d6120c217a46b0b73e99c6cdeb2](https://github.com/user-attachments/assets/caf101be-231e-49b0-acc1-4e499d6c912a)
+![image](https://github.com/user-attachments/assets/e07caf79-5908-4fc2-9c53-bce02fa3b9c7)
 
 ## Support
 
